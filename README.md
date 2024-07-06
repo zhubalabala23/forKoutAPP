@@ -1,4 +1,4 @@
-forKout APP using kotlin, Jetpack Compose, and Firebase 
+ForKout APP using kotlin, Jetpack Compose, and Firebase 
 
 ForKout adalah aplikasi kesehatan dan pola makan yang memiliki tujuan untuk orang yang ingin memulai dan melakukan 
 olahraga yang menyediakan panduan berupa video latihan dan tips racikan makanan sehat serta tips & trick olahraga.
